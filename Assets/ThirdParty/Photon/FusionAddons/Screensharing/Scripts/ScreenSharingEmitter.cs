@@ -118,10 +118,6 @@ public class ScreenSharingEmitter : MonoBehaviour
         get { return _desktopIndex; }
         set { 
                 _desktopIndex = value;
-                if(captureHost)
-                {
-                    captureHost.DesktopIndex = _desktopIndex;
-                }
             }
     }
 

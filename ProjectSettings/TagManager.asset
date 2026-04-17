@@ -4,35 +4,32 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - SenderTMP
-  - Character
-  - Locomotion
-  - ProfessorNPC
-  - SofiaNPC
+  - Crate
+  - Dirt
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - InvisibleForLocalPlayer
+  - 
   - Water
   - UI
-  - Locomotion
-  - Finger
-  - FingerOnlyUI
-  - NonBeamable
-  - StencilBuffer_Layer_1
-  - StencilBuffer_Layer_2
-  - RealTimeSensitiveObjects
-  - ForbiddenLocomotion
-  - Board
-  - PenLine
-  - BoardPenLine
-  - LineHandle
-  - InvisibleToRecording
-  - MouseDetection
-  - ReceiverScreen
-  - Magnets
-  - StickyNotes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
