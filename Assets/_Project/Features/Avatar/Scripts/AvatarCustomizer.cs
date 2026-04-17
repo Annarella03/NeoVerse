@@ -96,6 +96,7 @@ namespace Fusion.Samples.IndustriesComponents
             rigInfo.localHardwareRig = rig;
         }
 
+        [ContextMenu ("Force Desktop")]
         void ActivateDesktopMode()
         {
             // In Desktop mode, enable the desktop camera and disable the local hardware rig
